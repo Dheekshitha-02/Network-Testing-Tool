@@ -18,31 +18,22 @@ This is a Python-based network testing tool with a graphical user interface (GUI
 
 ## 🗂 Project Structure
 
+bash
+```
 CN_Network_Testing_Tool/
-
 ├── client.py # Client-side GUI tool
-
 ├── server.py # Server-side listener and GUI
-
 ├── ping.py # Executes ping command
-
 ├── tracefinal.py # Custom traceroute implementation
-
 ├── nslookup.py # Executes nslookup
-
 ├── ifconfig.py # Runs ifconfig
-
 ├── route.py # Runs route command
-
 ├── dig.py # Executes dig
-
 ├── nmap.py # Executes nmap
-
 ├── /screenshots/ # Output screenshots
-
 ├── /demo_videos/ # Demo walkthroughs
-
 └── report.pdf # Project documentation/report
+```
 
 ## 🛠 How to Run
 
